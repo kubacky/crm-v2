@@ -1,5 +1,194 @@
 {
   "employees": [
-    {"id":  1, "first_name":  "Abcdef", "last_name": "Test"}
+    {
+      "id": "609d0d5549c4276c7a9d091f",
+      "firstName": "Jewell",
+      "lastName": "King",
+      "email": "jewell.king@post.org",
+      "phone": "821 457-2812",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55ce339eaec0128b28",
+      "firstName": "Sandoval",
+      "lastName": "Waller",
+      "email": "sandoval.waller@post.biz",
+      "phone": "847 526-2106",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5510b5a1bc195e7172",
+      "firstName": "Genevieve",
+      "lastName": "Phillips",
+      "email": "genevieve.phillips@post.com",
+      "phone": "818 413-3194",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5560171cb4ece2f552",
+      "firstName": "Whitney",
+      "lastName": "Workman",
+      "email": "whitney.workman@post.tv",
+      "phone": "980 452-2389",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5590549e693918b358",
+      "firstName": "Fulton",
+      "lastName": "Boone",
+      "email": "fulton.boone@post.biz",
+      "phone": "886 591-3025",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5534bf6e0106c176b3",
+      "firstName": "Chavez",
+      "lastName": "Reese",
+      "email": "chavez.reese@post.io",
+      "phone": "902 517-3734",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55a8efda24f25c8371",
+      "firstName": "Alissa",
+      "lastName": "Higgins",
+      "email": "alissa.higgins@post.net",
+      "phone": "984 515-3266",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5550986e765a6a8292",
+      "firstName": "Witt",
+      "lastName": "Kemp",
+      "email": "witt.kemp@post.name",
+      "phone": "926 426-2024",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d556fd5288737bd5b4d",
+      "firstName": "Vinson",
+      "lastName": "Kirkland",
+      "email": "vinson.kirkland@post.co.uk",
+      "phone": "955 411-2345",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55cc24e179c2f2e1c3",
+      "firstName": "Chandra",
+      "lastName": "Middleton",
+      "email": "chandra.middleton@post.us",
+      "phone": "977 588-3955",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55dab2efc266d26030",
+      "firstName": "Hood",
+      "lastName": "Larson",
+      "email": "hood.larson@post.me",
+      "phone": "963 579-3265",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55a08e424c532cbb29",
+      "firstName": "Cathleen",
+      "lastName": "Trujillo",
+      "email": "cathleen.trujillo@post.info",
+      "phone": "838 463-2805",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d554430e9b9324a9415",
+      "firstName": "Murphy",
+      "lastName": "Spence",
+      "email": "murphy.spence@post.org",
+      "phone": "991 523-3875",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d551812289dbe705f24",
+      "firstName": "Cook",
+      "lastName": "Sharpe",
+      "email": "cook.sharpe@post.biz",
+      "phone": "995 449-2470",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d553d371ce83e5411bc",
+      "firstName": "Christian",
+      "lastName": "Chavez",
+      "email": "christian.chavez@post.com",
+      "phone": "854 482-2969",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55f70e888dd6904c51",
+      "firstName": "Agnes",
+      "lastName": "House",
+      "email": "agnes.house@post.tv",
+      "phone": "816 478-3856",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55b2a57f416c8c9d7f",
+      "firstName": "Roberta",
+      "lastName": "Wells",
+      "email": "roberta.wells@post.biz",
+      "phone": "957 477-3885",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55d778d7a1cf865b22",
+      "firstName": "Josephine",
+      "lastName": "Johnson",
+      "email": "josephine.johnson@post.io",
+      "phone": "908 409-2199",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55067d0ee20b7085a0",
+      "firstName": "Joni",
+      "lastName": "Barnett",
+      "email": "joni.barnett@post.net",
+      "phone": "908 513-3764",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d55d11b32b5f3807c73",
+      "firstName": "Melody",
+      "lastName": "Dawson",
+      "email": "melody.dawson@post.name",
+      "phone": "896 494-3359",
+      "dateOfBirth": "10-10-1990"
+    },
+    {
+      "id": "609d0d5576f16ab51f234ef1",
+      "firstName": "Jordan",
+      "lastName": "Santiago",
+      "email": "jordan.santiago@post.co.uk",
+      "phone": "925 575-2542",
+      "dateOfBirth": "10-10-1990"
+    }
+  ],
+  "working_positions": [
+    {
+      "id": "609d5417bc8efef70db329bf",
+      "position": "Dolor"
+    },
+    {
+      "id": "609d5417d6ccccf05a433206",
+      "position": "Ipsum"
+    },
+    {
+      "id": "609d541777ace7432a030a2a",
+      "position": "Arbeiter"
+    },
+    {
+      "id": "609d541717f99e5b47eda5c7",
+      "position": "Lorem"
+    },
+    {
+      "id": "609d5417d7fa1d604d6928a0",
+      "position": "Cheff"
+    }
   ]
 }

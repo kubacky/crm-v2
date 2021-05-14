@@ -1,0 +1,98 @@
+<section class="h-screen bg-gray-100 bg-opacity-50 p-6">
+  <form class="container max-w-2xl mx-auto shadow-md md:w-3/4">
+    <div class="p-4 bg-gray-100 border-t-2 border-indigo-400 rounded-lg bg-opacity-5">
+      <div class="max-w-sm mx-auto md:w-full md:mx-0">
+        <div class="inline-flex items-center space-x-4">
+          <h1 class="text-gray-600" i18n>
+            Employee
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div class="space-y-6 bg-white">
+      <div class="items-center w-full p-4 space-y-4 text-gray-500 md:inline-flex md:space-y-0">
+        <h2 class="max-w-sm mx-auto md:w-1/3">
+          Personal info
+        </h2>
+        <div class="max-w-sm mx-auto space-y-5 md:w-2/3">
+          <div>
+            <div class="relative">
+              <input type="text" placeholder="First name"/>
+            </div>
+          </div>
+          <div>
+            <div class="relative">
+              <input type="text" placeholder="Last name"/>
+            </div>
+          </div>
+          <div>
+            <div class="relative">
+              <input type="text" placeholder="Date of birth"/>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr/>
+      <div class="items-center w-full p-4 space-y-4 text-gray-500 md:inline-flex md:space-y-0">
+        <h2 class="max-w-sm mx-auto md:w-1/3">
+          Address
+        </h2>
+        <app-address-form class="max-w-sm mx-auto md:w-2/3"></app-address-form>
+      </div>
+      <hr/>
+      <div class="items-center w-full p-4 space-y-4 text-gray-500 md:inline-flex md:space-y-0">
+        <h2 class="max-w-sm mx-auto md:w-1/3">
+          Contact
+        </h2>
+        <app-contact-form class="max-w-sm mx-auto md:w-2/3"></app-contact-form>
+      </div>
+      <hr/>
+      <div class="items-center w-full p-4 space-y-4 text-gray-500 md:inline-flex md:space-y-0">
+        <h2 class="max-w-sm mx-auto md:w-1/3">
+          Contract data
+        </h2>
+        <div class="max-w-sm mx-auto space-y-5 md:w-2/3">
+          <div>
+            <div class="relative">
+              <input type="text" placeholder="Employed since"/>
+            </div>
+          </div>
+          <div class="w-full inline-flex gap-3">
+            <div class="w-8/12">
+              <div class="relative">
+                <input type="text" placeholder="Working position"/>
+              </div>
+            </div>
+            <div class="w-4/12">
+              <div class="relative">
+                <input type="number" placeholder="Salary"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr/>
+      <div class="items-center w-full p-8 space-y-4 text-gray-500 md:inline-flex md:space-y-0">
+        <h2 class="max-w-sm mx-auto md:w-4/12">
+          Change password
+        </h2>
+        <div class="w-full max-w-sm mx-auto space-y-5 md:w-5/12 md:pl-9 md:inline-flex">
+          <div class="relative">
+            <input type="password" id="user-info-password" placeholder="Password"/>
+          </div>
+        </div>
+        <div class="text-center md:w-3/12 md:pl-6">
+          <button type="button" class="btn-warn">
+            Change
+          </button>
+        </div>
+      </div>
+      <hr/>
+      <div class="w-full px-4 pb-4 ml-auto text-gray-500 md:w-1/3">
+        <button type="submit" class="btn-primary">
+          Save
+        </button>
+      </div>
+    </div>
+  </form>
+</section>

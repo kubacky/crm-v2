@@ -2,3 +2,35 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 /* You can add global styles to this file, and also import other style files */
+
+@layer components {
+  .btn {
+    @apply px-4 py-2 text-xs font-semibold tracking-wider text-white rounded
+  }
+
+  .btn-text {
+    @apply px-4 py-2 text-xs font-semibold tracking-wider rounded
+  }
+
+  .btn-primary {
+    @apply btn bg-blue-500 hover:bg-blue-600
+  }
+
+  .btn-secondary {
+    @apply btn bg-yellow-500 hover:bg-yellow-600
+  }
+
+  .btn-warn {
+    @apply btn bg-red-500 hover:bg-red-600
+  }
+
+  .btn-green {
+    @apply btn bg-green-500 hover:bg-green-600
+  }
+
+  form {
+    input[type=text], input[type=password], input[type=email], input[type=number], textarea, select {
+      @apply appearance-none border border-gray-300 w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent
+    }
+  }
+}

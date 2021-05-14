@@ -1,0 +1,19 @@
+<div class="max-w-sm mx-auto space-y-5" [formGroup]="form">
+  <div>
+    <div class="relative">
+      <input type="text" [formControlName]="'street'" placeholder="Street and house number"/>
+    </div>
+  </div>
+  <div class="w-full inline-flex gap-3">
+    <div class="w-4/12">
+      <div class="relative">
+        <input type="number" [formControlName]="'postcode'" placeholder="Postcode"/>
+      </div>
+    </div>
+    <div class="w-8/12">
+      <div class="relative">
+        <input type="text" [formControlName]="'city'" placeholder="City"/>
+      </div>
+    </div>
+  </div>
+</div>
